@@ -1,6 +1,6 @@
 # COMPUTER NETWORK
 
-**Network**:  
+`**Network**`   :  
 An inter-connection of multiple devices known as host, that are connected using multiple paths for the purpose of sending/receiving data.
 
 **Network Topography**:  
