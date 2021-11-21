@@ -1,6 +1,9 @@
 # COMPUTER NETWORK
 
-`**Network**`   :  
+<span style="color:red">some *blue* text</span>.
+
+
+**Network**   :  
 An inter-connection of multiple devices known as host, that are connected using multiple paths for the purpose of sending/receiving data.
 
 **Network Topography**:  
